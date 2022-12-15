@@ -8,9 +8,6 @@
 
 A template for building OpenWrt with GitHub Actions
 
-## 插件
-  passwall2，cloudflarespeedtest
-
 
 ## Usage
 
